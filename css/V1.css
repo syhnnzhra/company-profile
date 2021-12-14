@@ -1,81 +1,33 @@
 .home{
   background-color: #B7C6C9;
-  background-size: cover;
-  padding-top: 10%;
-  padding-bottom: 10%;
-}
-.home img{
-  margin-left: 10rem;
-  border-radius: 50%;
-}
-.skill h3 {
-  margin-left: 100px;
-  align-content: center;
-  padding-bottom: 5%;
 }
 
-.contents {
-  height: 50px;
-}
-/* .contents-item { */
-  /* padding: 20px; */
-/* } */
-
-.contents-item img {
-  width: 150px;
-  height: 150px;
-  border-radius: 100%;
-  align-content: center;
-}
-.riwayat{
-  background-color: #B7C6C9;
-  background-size: cover;
-  padding-top: 5%;
-  padding-bottom: 8%;
-}
-.riwayat img {
-  border-radius: 15%;
-}
-/* body{
-  margin: 0%;
-  padding: 0%;
-}
-.home{
-  font-size: 24px;
-  text-align: justify;
-  display: inline;
-  background-color: #B7C6C9;
-  position: absolute;
-  width: 100%;
-}
-.kalimat{
-  float: right;
-  text-align: justify;
-}
-
-.home img {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  margin-left: 3rem;
-  float: left;
-}
-  
-  nav{
-    position: fixed;
+.home p {
+    font-size: 24px;
+    text-align: justify;
   }
-  
+
+  .home img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    margin-left: 5px;
+  }
+
+  nav{
+      position: fixed;
+  }
+
   .home h1,
   h4,
   p {
     margin-left: 50px;
   }
-  
+
   .skill h3 {
     margin-left: 100px;
-    align-content: center;
   }
-  
+
   .contents {
     height: 50px;
   }
@@ -90,10 +42,16 @@
     border-radius: 100%;
   }
 
-  .riwayat-pendidikan {
+  .riwayat{
+    background-color: #B7C6C9;
     margin-top: 20rem;
   }
-  .riwayat-pendidikan h1 {
+  
+  .riwayat img {
+    border-radius: 15%;
+  }
+  .riwayat h1 {
+    margin-top: 20rem;
     text-align: center;
   }
-   */
+  
